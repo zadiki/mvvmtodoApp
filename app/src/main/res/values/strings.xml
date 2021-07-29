@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">MVVMTodo</string>
+    <string name="search">Search</string>
+    <string name="example_text">Example text</string>
+    <string name="sort">Sort</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_date_created">Sort by date created</string>
+    <string name="hide_completed">Hide completed</string>
+    <string name="delete_completed_tasks">Delete completed tasks</string>
+    <string name="task_name">Task Name</string>
+    <string name="important_task">Important task</string>
+    <string name="created">Created:</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="new_task">New Task</string>
 </resources>
